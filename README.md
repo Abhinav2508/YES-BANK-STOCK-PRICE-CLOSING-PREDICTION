@@ -22,7 +22,7 @@ The objective is to build a machine learning model that can **predict the closin
 
 ## 📂 Dataset
 
-- **Source**: [Mention Source – e.g., Kaggle / Yahoo Finance]
+- **Source**: https://drive.google.com/file/d/1QsxZSROg7nZjwAhwY7zgGwZQOF6aL8vP/view?usp=sharing
 - **Type**: Monthly stock data of Yes Bank
 - **Records**: 185 rows (monthly entries)
 - **Columns**: `Date`, `Open`, `High`, `Low`, `Close`, `Volume`
